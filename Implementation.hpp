@@ -1,3 +1,13 @@
+/*
+ Bryan Dang
+ Student ID: 2295344
+ Email: bdang@chapman.edu
+ Class: CPSC 350
+ Section: 1
+ Assignment 4: Register Office Simulation
+ Purpose: Implmentation class header
+ */
+
 #include <iostream>
 #include "Student.hpp"
 #include "GenQueue.h"

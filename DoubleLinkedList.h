@@ -47,6 +47,7 @@ DoublyLinkedList<T>::DoublyLinkedList()
   back = NULL;
 }
 
+//deconstructor
 template <class T>
 DoublyLinkedList<T>::~DoublyLinkedList()
 {
